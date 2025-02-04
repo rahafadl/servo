@@ -26,10 +26,7 @@
 2. وصل 6 محركات سيرفو بالمنافذ الرقمية **D3, D5, D6, D9, D10, D11**.  
 3. شغل الأردوينو وشاهد حركة المحركات.
 
-   الكود(بدون موضوع)
-رهف عادل
-​
-أنت​
+   الكود(
 https://www.tinkercad.com/things/lcpyjNqpXiL/editel?sharecode=_W-_rWX3pix6sgdvzj6P3nirFDF2opc6EZ0xXh-aMkE
 	
 Login - Tinkercad
